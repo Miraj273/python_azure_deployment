@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'boschWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52A7193ABE0B4BB1820526E6A1465735 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E1B0960FEED44361BFF7AE20EC496DDC }}
